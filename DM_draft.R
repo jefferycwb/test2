@@ -12,9 +12,5 @@ trans.matrix <- function(X, prob=T)
   tt
 }
 
-X= dat 
-prob=T
-a= c(X[,-ncol(X)])
-b= c(X[,-1]) 
 
-tt
+
