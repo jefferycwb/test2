@@ -19,3 +19,4 @@ transition.matrix(dat)
 
 
 chicago <- readRDS("../McK/chicago.rds")
+
